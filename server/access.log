@@ -1,0 +1,14 @@
+POST /api/createuser 409 69 - 144.383 ms
+POST /api/searchuser 500 94 - 16.864 ms
+POST /api/searchuser 500 94 - 1.500 ms
+POST /api/searchuser 201 642 - 93.317 ms
+GET /api/getindex 500 94 - 4.143 ms
+GET /api/getindex 500 94 - 5.704 ms
+GET /api/getindex 500 94 - 8.487 ms
+GET /api/getindex 500 94 - 5.814 ms
+GET /api/getindex 201 76 - 73.216 ms
+GET /api/getindex 201 57 - 94.611 ms
+GET /api/getindex 201 231 - 82.405 ms
+GET /api/getindex 201 381 - 99.708 ms
+POST /api/searchuser 201 642 - 132.820 ms
+POST /api/searchuser 201 642 - 103.440 ms
